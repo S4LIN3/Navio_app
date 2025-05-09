@@ -2,7 +2,6 @@
 
 A comprehensive personal development and life management application built with React Native and Expo. This app helps users track their mental health, set and achieve goals, manage finances, build social connections, and access learning resources.
 
-![Life Balance App](https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&auto=format&fit=crop)
 
 ## Features
 
