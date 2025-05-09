@@ -1,4 +1,4 @@
-# Life Balance App
+# Navio_App
 
 A comprehensive personal development and life management application built with React Native and Expo. This app helps users track their mental health, set and achieve goals, manage finances, build social connections, and access learning resources.
 
